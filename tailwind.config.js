@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         customGold: '#a18a4d',
+        colorBlack: '#212121',
       },
     },
   },
